@@ -6,7 +6,7 @@
 %                   PROF. LUCAS DE SOUZA BATISTA
 %                          
 %
-% NOMES: Bruno
+% NOMES: Bruno Andrade Pereira - 2013030430
 %        Eduardo Santiago Ramos - 2014015435
 %        Marcus Vinicius Bastos - 2013030147
 %
