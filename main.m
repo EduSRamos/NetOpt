@@ -19,7 +19,7 @@
 
 % % Instancia 1
 % b = [];
-% X1 = csvread('sch100k1.csv');
+X1 = csvread('sch100k1.csv');
 % D1 = 454;
 % %     gMax = 500;        
 % elit = 0.09;       
